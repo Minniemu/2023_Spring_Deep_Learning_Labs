@@ -1,0 +1,13 @@
+---------- Model info ---------- 
+Net type =  EEG
+device name =  cuda:2
+epoch =  300
+batch size =  128
+learning rate =  0.01
+---------- Accuracy ----------
+Best accuracy of training(ELU)= 0.9925925925925926
+Best accuracy of testing(ELU) = 0.8111111111111111
+Best accuracy of training(ReLU)= 0.9962962962962963
+Best accuracy of testing(ReLU) = 0.8138888888888889
+Best accuracy of training(Leaky ReLU)= 0.9972222222222222
+Best accuracy of testing(Leaky ReLU) = 0.812962962962963

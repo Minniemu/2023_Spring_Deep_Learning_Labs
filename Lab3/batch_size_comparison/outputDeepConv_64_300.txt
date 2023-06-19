@@ -1,0 +1,12 @@
+---------- Model info ---------- 
+device name =  cuda:0
+epoch =  300
+batch size =  64
+learning rate =  0.01
+---------- Accuracy ----------
+Best accuracy of training(ELU)= 0.9675925925925926
+Best accuracy of testing(ELU) = 0.7981481481481482
+Best accuracy of training(ReLU)= 0.9296296296296296
+Best accuracy of testing(ReLU) = 0.8037037037037037
+Best accuracy of training(Leaky ReLU)= 0.9425925925925925
+Best accuracy of testing(Leaky ReLU) = 0.7907407407407407
