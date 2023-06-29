@@ -1,0 +1,14 @@
+---------- Model info ---------- 
+Net type =  EEG
+device name =  cuda:2
+epoch =  300
+batch size =  64
+learning rate =  0.01
+optimizer =  <class 'torch.optim.adam.Adam'>
+---------- Accuracy ----------
+Best accuracy of training(ELU)= 0.9935185185185185
+Best accuracy of testing(ELU) = 0.8037037037037037
+Best accuracy of training(ReLU)= 0.9981481481481481
+Best accuracy of testing(ReLU) = 0.812962962962963
+Best accuracy of training(Leaky ReLU)= 0.9990740740740741
+Best accuracy of testing(Leaky ReLU) = 0.8

@@ -1,0 +1,14 @@
+---------- Model info ---------- 
+Net type =  EEG
+device name =  cuda:0
+epoch =  300
+batch size =  64
+learning rate =  0.01
+optimizer =  <class 'torch.optim.adamax.Adamax'>
+---------- Accuracy ----------
+Best accuracy of training(ELU)= 0.9944444444444445
+Best accuracy of testing(ELU) = 0.8194444444444444
+Best accuracy of training(ReLU)= 0.9972222222222222
+Best accuracy of testing(ReLU) = 0.8398148148148148
+Best accuracy of training(Leaky ReLU)= 1.0
+Best accuracy of testing(Leaky ReLU) = 0.8194444444444444
