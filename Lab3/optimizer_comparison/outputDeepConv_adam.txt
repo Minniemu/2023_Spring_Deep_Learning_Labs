@@ -1,0 +1,14 @@
+---------- Model info ---------- 
+Net type =  DeepConv
+device name =  cuda:0
+epoch =  300
+batch size =  64
+learning rate =  0.01
+optimizer =  <class 'torch.optim.adam.Adam'>
+---------- Accuracy ----------
+Best accuracy of training(ELU)= 0.9675925925925926
+Best accuracy of testing(ELU) = 0.8055555555555556
+Best accuracy of training(ReLU)= 0.9351851851851852
+Best accuracy of testing(ReLU) = 0.7888888888888889
+Best accuracy of training(Leaky ReLU)= 0.925
+Best accuracy of testing(Leaky ReLU) = 0.7777777777777778
